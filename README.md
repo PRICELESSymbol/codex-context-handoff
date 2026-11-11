@@ -1,4 +1,4 @@
-# Codex Context Handoff
+# Codex自动交接上下文窗口（Codex Automatic Context Window Handoff）
 
 面向 Windows Codex 桌面端的实验性对话交接工具。窗口占用达到 60% 时，通过生命周期钩子提示源对话保存交接记录，在同一项目中创建新对话继续任务。
 
